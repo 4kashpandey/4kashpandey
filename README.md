@@ -41,7 +41,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ### 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,spring,anaconda,fastapi,sklearn,mysql,git,github,idea,vscode&perline=15" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,spring,anaconda,fastapi,sklearn,mysql,mongodb,git,github,idea,vscode&perline=15" />
 </p>
 
 ### 📌 Featured Projects
