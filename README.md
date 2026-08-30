@@ -71,6 +71,14 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
 
+## 📊 Leetcode Statistics
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Akashpandeyyy?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+</p>
+ 
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
